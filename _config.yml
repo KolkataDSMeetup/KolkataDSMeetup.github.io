@@ -2,7 +2,7 @@
 title:       Kolakata DS Meetup
 email:       KolkataDSMeetup@gmail.com
 author:      KolkataDSMeetup
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Kolkata Data Science Meetup website"
 baseurl:     ""
 url:         "http://KolkataDSMeetup.github.io"
 date_format: "%b %-d, %Y"
