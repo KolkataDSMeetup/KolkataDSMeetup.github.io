@@ -2,7 +2,7 @@
 layout:     post
 title:      First Meetup
 date:       2018-03-24 15:00:00
-summary:    This post summarises the First Meetup Notes
+summary:    This post summarises the `successful` First Meetup Notes ...
 categories: meetupnotes
 ---
 The first data science meet in Kolkata was a success. A lot of participants from different work background such as Machine Learning, ETL, Deep Learning participated. We discussed couple of topics around NLP and Algorithmic Transparency.           
